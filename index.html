@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>HRFF13　</title>
+<link rel="stylesheet" href="ホームｃｓｓ.css">
+</head>
+<!-- 覗くな -->
+
+<nav>
+<ul>
+<li class="current"><a href="世界観.html">l本編の世界観</a></li>
+<li class="current"><a href="キャラクター紹介.html">キャラクター紹介</a></li>
+<li class="current"><a href="重要単語.html">重要用語</a></li>
+<li class="current"><a href="章ごとのあらすじと、モーメントへのリンク.html">章ごとのあらすじと、モーメントへのリンク</a></li>
+<li>その他</li>
+</ul>
+</nav>
+
+<img align=middle src="FINAL FANTASY.png" ><br>
+
+ようこそ<br>
+ここは二次創作小説Historia Repetit FINAL FANTASY XIIIの色々を纏めたサイトです<br>
+ここには、本編の設定や、ストーリーにまつわる話などが載っています。<br>
+キャラクター達の小話も少しだけ載ってたり…？<br>
+小説を読み解くためにも是非利用してください。<br>
+※開発中のため、まだ利用できない箇所が存在します。<br>
+
