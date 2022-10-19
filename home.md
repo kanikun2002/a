@@ -7,10 +7,10 @@
 
 <nav>
 <ul>
-<li class="current"><a href="世界観.html">l本編の世界観</a></li>
-<li class="current"><a href="キャラクター紹介.html">キャラクター紹介</a></li>
-<li class="current"><a href="重要単語.html">重要用語</a></li>
-<li class="current"><a href="章ごとのあらすじと、モーメントへのリンク.html">章ごとのあらすじと、モーメントへのリンク</a></li>
+<li class="current"><a href="world.md">l本編の世界観</a></li>
+<li class="current"><a href="chara.md">キャラクター紹介</a></li>
+<li class="current"><a href="tanngo.md">重要用語</a></li>
+<li class="current"><a href="moment.md">章ごとのあらすじと、モーメントへのリンク</a></li>
 <li>その他</li>
 </ul>
 </nav>
