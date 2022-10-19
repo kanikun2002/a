@@ -37,6 +37,6 @@
 
 モーメント<br><br><br>
 
-<a href="ホーム.html">トップ</a>
+<a href="home.md">トップ</a>
 
 <html>
