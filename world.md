@@ -89,5 +89,5 @@ FF15の事です。<br>
 
 
 
-<a href="ホーム.html">トップ</a>
+<a href="home.md">トップ</a>
 </body>
